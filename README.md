@@ -13,16 +13,15 @@ Citation:
 @ARTICLE{8283638,
 author={F. Miranda and H. Doraiswamy and M. Lage and L. Wilson and M. Hsieh and C. T. Silva},
 journal={IEEE Transactions on Visualization and Computer Graphics},
-title={Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time},
-year={2018},
-volume={},
-number={},
-pages={1-1},
-keywords={Buildings;Ray tracing;Sun;Tools;Urban areas;Visual analytics;Shadow accumulation;shadow accrual maps;urban development;visual analysis},
+title={Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows Over Time},
+year={2019},
+volume={25},
+number={3},
+pages={1559-1574},
+keywords={Urban areas;Ray tracing;Buildings;Visual analytics;Sun;Tools;Shadow accumulation;shadow accrual maps;visual analysis;urban development},
 doi={10.1109/TVCG.2018.2802945},
 ISSN={1077-2626},
-month={},
-}
+month={March},}
 
 ```
 

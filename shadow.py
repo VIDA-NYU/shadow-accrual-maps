@@ -34,4 +34,4 @@ if __name__ == "__main__":
     parser.add_argument('--path', action="store", dest="path", help='Slippy tiles path', required=True)
 
     args = parser.parse_args()
-    print getShadow(args.path,args.lat,args.lon)
+    print(getShadow(args.path,args.lat,args.lon))
