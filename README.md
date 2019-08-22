@@ -5,7 +5,7 @@ Large-scale shadows from buildings in a city play an important role in determini
 The technique was first presented in the [paper](https://vgc.poly.edu/~fmiranda/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf):
 
 **Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time**   
-[Fabio Miranda](https://vgc.poly.edu/~fmiranda), [Harish Doraiswamy](https://harishd.com/), [Marcos Lage](http://www2.ic.uff.br/~mlage), Luc Wilson, Mondrian Hsieh, [Claudio T. Silva](https://vgc.poly.edu/~csilva)  
+[Fabio Miranda](https://fmiranda.me), [Harish Doraiswamy](https://harishd.com/), [Marcos Lage](http://www2.ic.uff.br/~mlage), Luc Wilson, Mondrian Hsieh, [Claudio T. Silva](https://vgc.poly.edu/~csilva)  
 *IEEE Transactions on Visualization and Computer Graphics*
 
 Citation:
