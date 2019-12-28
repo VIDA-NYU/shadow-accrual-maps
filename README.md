@@ -2,7 +2,7 @@
 
 Large-scale shadows from buildings in a city play an important role in determining the environmental quality of public spaces. They can be both beneficial, such as for pedestrians during summer, and detrimental, by impacting vegetation and by blocking direct sunlight. Determining the effects of shadows requires the accumulation of shadows over time across different periods in a year. In our paper **Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time**, we present a simple yet efficient class of approach that uses the properties of sun movement to track the changing position of shadows within a fixed time interval. This repository presents the computed shadow information for New York City and a simple script for retrieving the data.
 
-The technique was first presented in the [paper](https://vgc.poly.edu/~fmiranda/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf):
+The technique was first presented in the [paper](https://fmiranda.me/publications/shadow-accrual-maps/tvcg-2018-shadowaccrualmaps.pdf):
 
 **Shadow Accrual Maps: Efficient Accumulation of City-Scale Shadows over Time**   
 [Fabio Miranda](https://fmiranda.me), [Harish Doraiswamy](https://harishd.com/), [Marcos Lage](http://www2.ic.uff.br/~mlage), Luc Wilson, Mondrian Hsieh, [Claudio T. Silva](https://vgc.poly.edu/~csilva)  
