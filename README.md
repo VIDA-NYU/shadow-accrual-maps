@@ -42,10 +42,10 @@ A video is available [here](https://www.youtube.com/watch?v=LsZv23d1LyM).
 The shadow accumulation data can be downloaded through Open Science Framework [here](https://osf.io/4tqp9/), or visualized [here](https://vgc.poly.edu/projects/shadow). We have made available data for:
 
 - New York City
-- Chicago (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=chi&day=jun-21), [Sep 22](https://vgc.poly.edu/projects/shadows/?city=chi&day=sep-22), [Dec 21]([Dec 21](https://vgc.poly.edu/projects/shadows/?city=chi&day=dec-21))
-- Los Angeles (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=la&day=jun-21), [Sep 22](https://vgc.poly.edu/projects/shadows/?city=la&day=sep-22), [Dec 21]([Dec 21](https://vgc.poly.edu/projects/shadows/?city=la&day=dec-21))
-- Washington D.C. (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=dc&day=jun-21), [Sep 22](https://vgc.poly.edu/projects/shadows/?city=dc&day=sep-22), [Dec 21]([Dec 21](https://vgc.poly.edu/projects/shadows/?city=dc&day=dec-21))
-- Boston (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=bos&day=jun-21), [Sep 22](https://vgc.poly.edu/projects/shadows/?city=bos&day=sep-22), [Dec 21]([Dec 21](https://vgc.poly.edu/projects/shadows/?city=bos&day=dec-21)))
+- Chicago (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=chi&day=jun-21), [September 22](https://vgc.poly.edu/projects/shadows/?city=chi&day=sep-22), [December 21](https://vgc.poly.edu/projects/shadows/?city=chi&day=dec-21))
+- Los Angeles (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=la&day=jun-21), [September 22](https://vgc.poly.edu/projects/shadows/?city=la&day=sep-22), [December 21](https://vgc.poly.edu/projects/shadows/?city=la&day=dec-21))
+- Washington D.C. (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=dc&day=jun-21), [September 22](https://vgc.poly.edu/projects/shadows/?city=dc&day=sep-22), [December 21](https://vgc.poly.edu/projects/shadows/?city=dc&day=dec-21))
+- Boston (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=bos&day=jun-21), [September 22](https://vgc.poly.edu/projects/shadows/?city=bos&day=sep-22), [December 21](https://vgc.poly.edu/projects/shadows/?city=bos&day=dec-21))
 
 The accumulated shadows were computed for three days of the year: June 21 (summer solstice), September 22 (autumnal equinox) and December 21 (winter solstice). Shadows can be greatly distorted when they are near the horizon, so all the shadows in the model are estimated from one and a half hours after sunrise to one and a half hours before sunset.
 
