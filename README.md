@@ -39,7 +39,7 @@ A video is available [here](https://www.youtube.com/watch?v=LsZv23d1LyM).
 
 ![Shadow example](https://raw.githubusercontent.com/ViDA-NYU/shadow-accrual-maps/master/cities.png?token=ACRuim7NEAqvjJEStnb0lqb48gFm-_J9ks5cCy20wA%3D%3D)
 
-The shadow accumulation data can be downloaded through Open Science Framework [here](https://osf.io/4tqp9/), or visualized [here](https://vgc.poly.edu/projects/shadow). We have made available data for:
+The shadow accumulation data can be downloaded through Open Science Framework [here](https://osf.io/4tqp9/), or visualized [here](https://vgc.poly.edu/projects/shadows). We have made available data for:
 
 - New York City
 - Chicago (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=chi&day=jun-21), [September 22](https://vgc.poly.edu/projects/shadows/?city=chi&day=sep-22), [December 21](https://vgc.poly.edu/projects/shadows/?city=chi&day=dec-21))
