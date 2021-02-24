@@ -17,7 +17,7 @@ def getShadow(path,lat,lon):
 
     tile = deg2num(lat,lon,zoomLevel)
     tilePix = (256 * (tile[0] - int(tile[0])), 256 * (tile[1] - int(tile[1])))
-    pos = int(tilePix[1] * 256 + tilePix[0])
+    pos = int(int(tilePix[1]) * 256 + tilePix[0])
 
     filePath = '%s/%d/%d/%d.bin'%(path,zoomLevel,tile[0],tile[1])
     f = open(filePath,'rb')
