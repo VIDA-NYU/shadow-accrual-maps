@@ -41,7 +41,7 @@ A video is available [here](https://www.youtube.com/watch?v=LsZv23d1LyM).
 
 The shadow accumulation data can be downloaded through Open Science Framework [here](https://osf.io/4tqp9/), or visualized [here](https://vgc.poly.edu/projects/shadows). We have made available data for:
 
-- New York City
+- New York City (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=nyc&day=jun-21), [September 22](https://vgc.poly.edu/projects/shadows/?city=nyc&day=sep-22), [December 21](https://vgc.poly.edu/projects/shadows/?city=nyc&day=dec-21))
 - Chicago (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=chi&day=jun-21), [September 22](https://vgc.poly.edu/projects/shadows/?city=chi&day=sep-22), [December 21](https://vgc.poly.edu/projects/shadows/?city=chi&day=dec-21))
 - Los Angeles (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=la&day=jun-21), [September 22](https://vgc.poly.edu/projects/shadows/?city=la&day=sep-22), [December 21](https://vgc.poly.edu/projects/shadows/?city=la&day=dec-21))
 - Washington D.C. (visualizations: [June 21](https://vgc.poly.edu/projects/shadows/?city=dc&day=jun-21), [September 22](https://vgc.poly.edu/projects/shadows/?city=dc&day=sep-22), [December 21](https://vgc.poly.edu/projects/shadows/?city=dc&day=dec-21))
